@@ -8,7 +8,7 @@ Basic instructions:
 
 This repo  is meant to cloned.  This micro-site template is used to
 automatically create new microsites which can be easily customized.
-If you are the owner if this README, you have probably already cloned
+If you are the owner of this README, you have probably already cloned
 it and should replace it with something far more specific.
 
 ### Public domain
